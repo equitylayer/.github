@@ -60,11 +60,10 @@ Core protocol. Cap tables. Vesting. Dividends. Document storage. Board actions.
 Priced rounds. SAFEs. Convertibles. Options/RSUs. Transfer restrictions. Round simulations.
 
 **Phase 1.5: Secondary & Infrastructure** [IN PROGRESS]
-Broker-dealer rails. ATS integration. ROFR automation. Nominee holdings. Service provider APIs.
+Broker-dealers, Lawyers, ROFR automation. Nominee holdings.Service provider APIs. ServiceLayer built
 
-**Phase 2: Public Markets**
-On-chain IPO rails. DTC interoperability. Real-time settlement.
-
+**Phase 2: Institutions**
+On-chain pre-IPO auditability. DTC interoperability. Real-time settlement.
 ---
 
 ## Who It Serves
