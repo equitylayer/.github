@@ -20,4 +20,4 @@ Start a company, raise money, grant options and keep every shareholder's record 
 
 [Get started](https://app.obolos.io) · [Try it with test money](https://try.obolos.io) · [SDK Docs](https://docs.obolos.io)
 
-[X](https://x.com/equitylayer) · [LinkedIn](
+[X](https://x.com/equitylayer) · [LinkedIn](https://www.linkedin.com/company/obolosprotocol)
