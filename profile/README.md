@@ -1,21 +1,23 @@
 # obolos
 
-**Carta rebuilt onchain for the programmable economy.**
+**Your company's equity, and compliance in one place.**
 
-Enforce securities rules directly on-chain, at the share level. One source of truth for founders, shareholders, and institutions.
+Start a company, raise money, grant options and keep every shareholder's record up to date. Founders, investors and employees work from one record, each seeing what's theirs.
 
-## The Problem
+## What you can do
 
-Incorporating, raising funds, issuing options, communicating updates, all live in disconnected platforms. Cap tables diverge across tools and spreadsheets. Every fundraise means weeks of reconciliation. No shared ledger exists for $14.9T in private assets, so every participant maintains their own version of the record.
+- **Set up your company**, or bring over the cap table you already have.
+- **Raise** with SAFEs, notes or priced rounds. Investors sign, pay and see their stake in the app.
+- **Grant shares and options** with vesting that runs on its own.
+- **Run the company**: share documents, sign agreements, hold votes and pay out distributions.
+- **Track your investments** across every company in one portfolio.
 
-## What We Build
+## Why obolos
 
-A programmable compliance layer for equity. Agreements that enforce themselves, ownership that's verifiable, and compliance that's verified once.
+- **Private by default.** Amounts and holdings stay private. The company decides what else to share, and with whom.
+- **Rules built in.** Investor checks, transfer limits and holder caps apply every time shares change hands.
+- **Yours to keep.** Sign in with email or Google. The records belong to your company, not to us.
 
-- **FHE** for privacy and selective disclosure
-- **Ethereum** for settlement and storage
-- **Self-custody** so companies own their data
+[Get started](https://app.obolos.io) · [Try it with test money](https://try.obolos.io) · [SDK Docs](https://docs.obolos.io)
 
-## Links
-
-[obolos.io](https://obolos.io) · [@equitylayer](https://x.com/equitylayer) · [petros@obolos.io](mailto:petros@obolos.io)
+[X](https://x.com/equitylayer) · [LinkedIn](
